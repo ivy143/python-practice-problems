@@ -1,0 +1,1 @@
+print("hello world \n hey there i'm diksha and i'm on my way to become a data scientist")
